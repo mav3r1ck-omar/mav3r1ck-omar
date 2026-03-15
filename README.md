@@ -1,16 +1,30 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Cyber%20Security%20Student-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Application%20Penetration%20Tester-darkred?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20%20Stack%20Developer%20-8A2BE2?style=for-the-badge&logoColor=white" />
+</p>
 
-<!--
-**mav3r1ck-omar/mav3r1ck-omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I'm currently working on **Web Security and Development**
+- 🌱 I'm learning **Malware Analysis and Red Teaming**
+- 👯 Looking to collaborate on **Security Research**
+- I play CTFs too :D
+- 📫 Reach me: **omar.malik1618@gmail.com**
+---
+###  Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,visualstudio,vscode,linux,cloudflare,vercel,qt,html,css,ts,js,react,nextjs,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,redis,nodejs,django,nginx,docker&perline=14)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mav3r1ck-omar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=contribs" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav3rick-omar&theme=tokyonight&hide_border=false&layout=compact" width="49%"/>
+</p>
+
+---
