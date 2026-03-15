@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Muhammad Omar Malik
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" />
 </p>
