@@ -5,7 +5,7 @@
 
 ---
 
-## Hi 👋, I'm Omar Malik
+<h1 align="center">Hi 👋, I'm Omar Malik</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Cyber%20Security%20Student-blue?style=for-the-badge&logoColor=white" />
