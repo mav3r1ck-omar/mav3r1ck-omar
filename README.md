@@ -1,7 +1,12 @@
-## Hi there 👋, I'm Muhammad Omar Malik
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" />
 </p>
+
+---
+
+## Hi 👋, I'm Omar Malik
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Cyber%20Security%20Student-blue?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Application%20Penetration%20Tester-darkred?style=for-the-badge&logoColor=white" />
