@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Full%20%20Stack%20Developer%20-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
 
+---
+
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on **Web Security and Development**
 - 🌱 I'm learning **Malware Analysis and Red Teaming**
@@ -36,7 +38,9 @@
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </p>
+
 ---
+
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/omar-malik-47093439b/" target="_blank">
