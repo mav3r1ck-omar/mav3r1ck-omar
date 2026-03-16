@@ -24,7 +24,7 @@
 ---
 ###  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,visualstudio,vscode,linux,cloudflare,vercel,qt,html,css,ts,js,react,nextjs,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,redis,nodejs,django,nginx,docker&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,visualstudio,vscode,linux,cloudflare,vercel,html,css,ts,js,react,nextjs,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,nodejs,nginx,docker&perline=14)](https://skillicons.dev)
 
 ---
 
