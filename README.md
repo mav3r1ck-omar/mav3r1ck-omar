@@ -20,14 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,visualstudio,vscode,linux,cloudflare,vercel,html,css,ts,js,react,nextjs,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,nodejs,nginx,docker&perline=14)](https://skillicons.dev)
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mav3r1ck-omar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=contribs" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav3r1ck-omar&theme=tokyonight&hide_border=false&layout=compact" width="49%"/>
-</p>
-
----
 ### 🐍 Contribution Snake
 <p align="center">
   <picture>
