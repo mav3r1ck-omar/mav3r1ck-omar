@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKVUn7iM8FMEU24/giphy.gif" width="600" />
-</p>
-
----
-
 <h1 align="center">Hi 👋, I'm Omar Malik</h1>
 
 <p align="center">
